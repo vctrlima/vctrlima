@@ -1,7 +1,7 @@
 <!-- Intro -->
 <div id="intro">
       <h1 align="center" style="margin-top: 1.5em; font-size: 25px; font-weight: bolder;">
-            VICTOR CARDOSO LIMA
+            Victor Cardoso Lima
       </h1>
       <p align="center" style="font-size: 18px;">Oi, tudo bom? 😄 Este é um breve resumo sobre mim, <br>o que faço e metas que vou alcançar!</p>
       <div style="margin-top: 3em;">
@@ -9,7 +9,7 @@
                   <img src="src/gif/scott-pilgrim-up.gif">
             </p>
       </div>
-      <br><br>
+      <br>
 </div>
 
 <!-- About me -->
@@ -32,7 +32,7 @@
       <p style="font-size: 18px;">
             <strong>Curiosidade sobre mim: </strong>também sou um ótimo desenhista e já cheguei até a fazer um curso na área, me especializando em mangá! 👻
       </p>
-      <br><br>
+      <br>
 </div>
 
 <!-- Interests -->
@@ -51,7 +51,7 @@
                   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
             </p>
       </div>
-      <br><br>
+      <br>
 </div>
 
 <!-- Contact -->
@@ -61,8 +61,6 @@
       </h1>
       <p align="center">
             <a href="https://www.linkedin.com/in/victor-limac/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      </p>
-      <p align="center">
             <a href="mailto:victor.limaeu@gmail.com?subject=Via%20GitHub" style="margin-left: 0.5em;"><img src="https://img.shields.io/badge/victor.limaeu@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
       </p>
 </div>
