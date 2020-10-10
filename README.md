@@ -38,7 +38,7 @@
 <!-- Interests -->
 <div id="interests">
       <h1 align="center" style="margin-top: 2.5em; font-weight: bolder;">
-            ⭐ Atualmente interessado em:
+            Atualmente interessado em:
       </h1>
       <div id="list">
             <p align="center">
