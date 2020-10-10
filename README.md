@@ -1,15 +1,17 @@
 <!-- Intro -->
 <div id="intro">
-      <h2 style="text-align: center; margin-top: 2em; font-weight: bolder;">Oi, tudo bom? 😄</h2>
-      <p style="text-align: center; font-size: 18px;">Este é um breve resumo sobre mim, <br>o que faço e metas que vou alcançar!</p>
-      <div style="text-align: center; margin-top: 3em;">
-            <img src="src/gif/scott-pilgrim-up.gif">
+      <h2 align="center" style="margin-top: 2em; font-weight: bolder;">Oi, tudo bom? 😄</h2>
+      <p align="center" style="font-size: 18px;">Este é um breve resumo sobre mim, <br>o que faço e metas que vou alcançar!</p>
+      <div style="margin-top: 3em;">
+            <p align="center">
+                  <img src="src/gif/scott-pilgrim-up.gif">
+            </p>
       </div>
 </div>
 
 <!-- About me -->
 <div id="about-me">
-      <h1 style="text-align: center; margin-top: 1.5em; font-weight: bolder;">
+      <h1 align="center" style="margin-top: 1.5em; font-weight: bolder;">
             Sobre mim 💬
       </h1>
       <h2 style="margin-top: 1.5em; font-size: 25px; font-weight: bolder;">
@@ -34,7 +36,7 @@
 
 <!-- Interests -->
 <div id="interests">
-      <h1 style="text-align: center; margin-top: 1.5em; font-weight: bolder;">
+      <h1 align="center" style="margin-top: 2.5em; font-weight: bolder;">
             ⭐ Atualmente interessado em:
       </h1>
       <div id="list">
@@ -50,7 +52,7 @@
 
 <!-- Contact -->
 <div id="contact">
-      <h1 style="text-align: center; margin-top: 1.5em; font-weight: bolder;">
+      <h1 align="center" style="margin-top: 2.5em; font-weight: bolder;">
             Como entrar em contato comigo?
       </h1>
       <a href="https://www.linkedin.com/in/victor-limac/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
