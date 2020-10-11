@@ -30,7 +30,7 @@
             Hoje invisto, de forma extracurrilar, em ampliar meus conhecimentos em desenvolvimento web a aperfeiçoar meu nível em JavaScript e seus principais frameworks – e confesso que meu favorito (pelo menos até o momento) é o React.
       </p>
       <p style="font-size: 18px;">
-            <strong>Curiosidade sobre mim: </strong>também sou um ótimo desenhista e já cheguei até a fazer um curso na área, me especializando em mangá! 👻
+            <strong>Curiosidade: </strong>também sou um ótimo desenhista e já cheguei até a fazer um curso na área, me especializando em mangá! 👻
       </p>
       <br>
 </div>
