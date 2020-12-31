@@ -4,9 +4,9 @@
             Hi, there! 👋
       </h1>
       <div style="margin-top: 2em;">
-            <h2 align="center">
+            <p align="center" style="font-size: 1.5em;">
                   My name is Victor Lima. Welcome to my profile!<br>I hope you like some repositories.
-            </h2>
+            </p>
             <p align="center" style="margin-top: 2em;">
                   <img width=200px src="src/gif/bonfire.gif">
             </p>
