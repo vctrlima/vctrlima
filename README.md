@@ -3,10 +3,13 @@
       <h1 align="center" style="margin-top: 1.5em; font-size: 25px; font-weight: bolder;">
             Hi, there! 👋
       </h1>
-      <div style="margin-top: 3em;">
-            <div align="center">
-                  ![Victor Lima's github stats](https://github-readme-stats.vercel.app/api?username=vctrlima&show_icons=true&theme=dark)
-            </div>
+      <div style="margin-top: 2em;">
+            <h2 align="center">
+                  My name is Victor Lima. Welcome to my profile!<br>I hope you like some repositories.
+            </h2>
+            <p align="center" style="margin-top: 2em;">
+                  <img width=200px src="src/gif/bonfire.gif">
+            </p>
       </div>
       <br>
 </div>
@@ -33,7 +36,7 @@
 <!-- Interests -->
 <div id="interests">
       <h1 align="center" style="margin-top: 2em; font-weight: bolder;">
-            Currently interested in
+            Currently interested in:
       </h1>
       <div id="list">
             <p align="center">
