@@ -29,7 +29,7 @@
             Graduating in Systems Analysis and Development.
       </p>
       <p align="center"  style="font-size: 18px">
-            Currently expanding knowledge in AngularJS for work and hobby!
+            Currently expanding knowledge in Angular for work and hobby!
       </p>
 </div>
 
