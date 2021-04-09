@@ -26,8 +26,3 @@
             </p>
       </div>
 </div>
-<div>
-      <p align="center">
-            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctrlima&layout=compact&theme=dark" />
-      </p>
-</div>
