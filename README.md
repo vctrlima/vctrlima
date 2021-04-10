@@ -22,7 +22,7 @@
                   Graduating in Systems Analysis and Development.
             </p>
             <p align="start" style="font-size: 18px">
-                  Currently expanding knowledge in <code><a href="https://angular.io/" style="color: red;">Angular</a></code> and <code><a href="https://nextjs.org/" style="color: red;">React</a></code> for work and hobby!
+                  Currently expanding knowledge in <code><a href="https://angular.io/" style="color: red;">Angular</a></code> and <code><a href="https://nextjs.org/" style="color: red;">NextJS</a></code> for work and hobby!
             </p>
       </div>
 </div>
