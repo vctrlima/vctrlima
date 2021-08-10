@@ -22,7 +22,7 @@
                   Graduating in Systems Analysis and Development.
             </p>
             <p align="start" style="font-size: 18px">
-                  Currently expanding knowledge in <code><a href="https://angular.io/" style="color: red;">Angular</a></code>, <code><a href="https://pt-br.reactjs.org/" style="color: red;">React</a></code> and <code><a href="https://reactnative.dev/" style="color: red;">React Native</a></code> for work and hobby!
+                  Currently expanding knowledge in <code><a href="https://angular.io/" style="color: red;">Angular</a></code>, <code><a href="https://pt-br.reactjs.org/" style="color: red;">React</a></code> and <code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" style="color: red;">C#</a></code> for work and hobby!
             </p>
       </div>
 </div>
