@@ -14,7 +14,7 @@
             </h1>
             <ul style="font-size: 18px;">
                   <li>Brazilian</li>
-                  <li>20 years old</li>
+                  <li>21 years old</li>
                   <li>Student and Jr. Front-end developer at ATLAS INOVAÇÕES</li>
                   <li>Web development enthusiast</li>
             </ul>
