@@ -4,7 +4,7 @@
       </h1>
       <div style="margin-top: 2em;">
             <p align="start" style="font-size: 1.5rem; inline-block">
-                  My name is Victor Lima. Welcome to my profile!<br>I hope you like some repositories.
+                  My name is Victor. Welcome to my profile!<br>I hope you like some repositories.
             </p>
       </div>
       <br>
