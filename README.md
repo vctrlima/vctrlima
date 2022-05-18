@@ -15,7 +15,7 @@
             <ul style="font-size: 18px;">
                   <li>Brazilian</li>
                   <li>21 years old</li>
-                  <li>Student and Front-end developer at Hit Brasil</li>
+                  <li>Student and Front-end developer at <a href="https://hit-game.com/" style="color: red;">Hit Brasil</a></li>
                   <li>Web development enthusiast</li>
             </ul>
             <p align="start" style="font-size: 18px">
