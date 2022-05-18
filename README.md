@@ -15,7 +15,7 @@
             <ul style="font-size: 18px;">
                   <li>Brazilian</li>
                   <li>21 years old</li>
-                  <li>Student and Jr. Front-end developer at ATLAS INOVAÇÕES</li>
+                  <li>Student and Front-end developer at Hit Brasil</li>
                   <li>Web development enthusiast</li>
             </ul>
             <p align="start" style="font-size: 18px">
