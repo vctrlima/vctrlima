@@ -6,10 +6,11 @@ I hope you like some repositories
 - Brazilian;
 - 21 years old;
 - Developer at [Hit Brasil](https://hit-game.com/);
-- Web development enthusiast.
+- Mobile and web development enthusiast.
 - Graduating in Systems Analysis and Development.
 
 ### Tools:
+- [React Native](https://reactnative.dev/);
 - [Angular](https://angular.io/);
 - [Node.js](https://nodejs.org/en/);
 - [React.js](https://reactjs.org/);
