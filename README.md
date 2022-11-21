@@ -16,4 +16,4 @@ I hope you like some repositories
 - [React.js](https://reactjs.org/);
 - [Next.js](https://nextjs.org/).
 
-#### Currently interested in expanding knowledge with [React Native](https://reactnative.dev/).
+#### Currently interested in expanding knowledge with [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
