@@ -5,7 +5,6 @@ I hope you like some repositories
 ### About me:
 - Brazilian;
 - 21 years old;
-- Developer at [Hit Brasil](https://hit-game.com/);
 - Mobile and web development enthusiast.
 - Graduating in Systems Analysis and Development.
 
