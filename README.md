@@ -8,4 +8,4 @@ I hope you like some repositories
 - Mobile and web development enthusiast.
 - Graduating in Systems Analysis and Development.
 
-#### Currently interested in expanding knowledge with [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
+#### Currently interested in expanding knowledge with *Software Architecture*.
